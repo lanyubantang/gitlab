@@ -6,4 +6,5 @@
   * [Start using Git on the command line](gitlab-basics/start-using-git-on-the-command-line.md)
   * [How to create your SSH Keys ](gitlab-basics/how-to-create-your-ssh-keys.md)
   * [Create a project](gitlab-basics/create-a-project.md)
+  * [Create a group](gitlab-basics/create-a-group.md)
 
